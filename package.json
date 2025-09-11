@@ -1,15 +1,31 @@
 {
-  "name": "untitled10",
+  "name": "sauce-demo-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "E2E тестирование SauceDemo с Page Object Model",
   "main": "index.js",
   "scripts": {},
   "private": true,
   "keywords": [],
-  "author": "",
+  "author": "AlexPoroshkov",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.55.0",
     "@types/node": "^24.3.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0",
+    "playwright-core": "^1.55.0",
+    "undici-types": "^7.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skrattar1/my-first-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skrattar1/my-first-repo/issues"
+  },
+  "homepage": "https://github.com/Skrattar1/my-first-repo#readme"
 }
