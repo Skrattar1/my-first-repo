@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2e17714-d30e-484c-9ee8-02197f28f790" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/playwright-report/data/1a86837c0cc6b01dfb96568b32fb4c55bc8ce336.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright-report/data/4b0a04abc8622e17d9ab393fa0277c3afde66428.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright-report/data/6a5d1c9b4cadb1220283e338ac75550c47c3a572.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright-report/data/8594b757a953ffd3c14ec02415f87384d321accb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright-report/data/ffac8892bd3253709933d58defcc4bf3ee5c275f.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/playwright-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/.last-run.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-results/.last-run.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-chromium/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-firefox/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-webkit/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-chromium/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-firefox/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-webkit/error-context.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pages/login.page.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32I5PWH6VG6hioEAsRDyUgyGYLV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Playwright.Авторизация на Sauce Demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Авторизация на Sauce Demo" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/login.spec.js..js" />
+      <test-names>
+        <test-name value="Авторизация на Sauce Demo" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.Авторизация на Sauce Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2e17714-d30e-484c-9ee8-02197f28f790" name="Changes" comment="" />
+      <created>1757095221331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757095221331</updated>
+      <workItem from="1757095222390" duration="119000" />
+      <workItem from="1757095350439" duration="180000" />
+      <workItem from="1757096245906" duration="2153000" />
+      <workItem from="1757442679475" duration="3130000" />
+      <workItem from="1757446171043" duration="974000" />
+      <workItem from="1757505829570" duration="7222000" />
+      <workItem from="1757773746384" duration="126000" />
+      <workItem from="1758291394387" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
