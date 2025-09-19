@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2e17714-d30e-484c-9ee8-02197f28f790" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/e2e.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/e2e.spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="a2e17714-d30e-484c-9ee8-02197f28f790" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +93,7 @@
       <workItem from="1757446171043" duration="974000" />
       <workItem from="1757505829570" duration="7222000" />
       <workItem from="1757773746384" duration="126000" />
-      <workItem from="1758291394387" duration="2152000" />
+      <workItem from="1758291394387" duration="2469000" />
     </task>
     <servers />
   </component>
