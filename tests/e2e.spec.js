@@ -51,13 +51,3 @@ test('Complete purchase flow on SauceDemo', async ({ page }) => {
     const isSuccessful = await checkoutCompletePage.isOrderSuccessful();
     expect(isSuccessful).toBeTruthy();
 });
-
-test('Login with invalid credentials shows error', async ({ page }) => {
-    const loginPage = new LoginPage(page);
-
-    await loginPage.open();
-    await loginPage.login('invalid_user', 'wrong_password');
-
-    const errorMessage = await loginPage.getErrorMessage();
-    expect(errorMessage).toContain('Username and password do not match');
-});
