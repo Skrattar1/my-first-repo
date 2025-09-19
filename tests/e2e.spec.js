@@ -14,7 +14,7 @@ test('Complete purchase flow on SauceDemo', async ({ page }) => {
     const checkoutStepTwoPage = new CheckoutStepTwoPage(page);
     const checkoutCompletePage = new CheckoutCompletePage(page);
 
-    await loginPage.open();
+    await loginPage.navigate();
 
     await loginPage.login('standard_user', 'secret_sauce');
 

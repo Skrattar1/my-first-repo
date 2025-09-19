@@ -1,6 +1,11 @@
-# .gitignore
-node_modules/
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Playwright reports
 playwright-report/
 test-results/
-*.log
-.DS_Store
+
+# Node modules
+node_modules/

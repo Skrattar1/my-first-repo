@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2e17714-d30e-484c-9ee8-02197f28f790" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/playwright-report/data/1a86837c0cc6b01dfb96568b32fb4c55bc8ce336.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright-report/data/4b0a04abc8622e17d9ab393fa0277c3afde66428.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright-report/data/6a5d1c9b4cadb1220283e338ac75550c47c3a572.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright-report/data/8594b757a953ffd3c14ec02415f87384d321accb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright-report/data/ffac8892bd3253709933d58defcc4bf3ee5c275f.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playwright-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/playwright-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/.last-run.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-results/.last-run.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-chromium/error-context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-firefox/error-context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-get-started-link-webkit/error-context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-chromium/error-context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-firefox/error-context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-results/example-has-title-webkit/error-context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/e2e.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/e2e.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +96,7 @@
       <workItem from="1757446171043" duration="974000" />
       <workItem from="1757505829570" duration="7222000" />
       <workItem from="1757773746384" duration="126000" />
-      <workItem from="1758291394387" duration="1289000" />
+      <workItem from="1758291394387" duration="2152000" />
     </task>
     <servers />
   </component>
